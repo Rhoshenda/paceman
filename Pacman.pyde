@@ -1,7 +1,7 @@
 path=os.getcwd()
 x = 50
 y = 50
-speed = 1000
+speed = 999
 fillVal = color(156)
 
 class Pacman:
